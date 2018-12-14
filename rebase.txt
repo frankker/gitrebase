@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 first commit
 frankker 1
 second commit
@@ -16,8 +15,4 @@ after rebase
 remote final
 
 
-local
-final in local
-=======
-first commit
->>>>>>> parent of 62f1092... second commit - remote
+local good
