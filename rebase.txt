@@ -1,13 +1,2 @@
-first commit
-frankker 1
-second commit
-third commit pc
+last commit
 
-forth commit pc
-fifth commit pc
-
-local in spain
-
-before rebase
-
-after reverted
